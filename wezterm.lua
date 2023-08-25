@@ -5,7 +5,7 @@ return {
   -- font = wezterm.font('Cica'),
   font = wezterm.font {
     family = 'Cica',
-    weight = 'Bold',
+    weight = 'Regular',
     style = 'Italic'
   },
   use_ime = true,
